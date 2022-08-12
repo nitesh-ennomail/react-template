@@ -15,7 +15,7 @@ const Login = () => {
                 />
                 <h3 className=" my-4">Partner Portal</h3>
               </div>
-              <form action="Dashboard.html">
+              <form action="/dashboard">
                 <div className="form-group">
                   <label htmlFor="InputUserid">Login ID</label>
                   <input
